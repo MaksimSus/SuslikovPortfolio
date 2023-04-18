@@ -7,8 +7,8 @@
 <br>
 
 ## Навыки и технологии
-``Jira``,``qase.io``,``SQL``,``Postman``, ``Trello'', <br>
-``Android Studio``,``Charles``,``Git``,``Chrome DevTools``.
+``Jira``,``qase.io``,``SQL``,`` Postman``, ``Trello``, <br>
+``Android Studio``, ``Charles``, ``Git``, ``Chrome DevTools``.
 
 
 
