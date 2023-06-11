@@ -32,7 +32,8 @@
 
 <p>Как я решал можно посмотреть по ссылке на статью в Confluence ниже(тест-кейсы, чек-листы, баг-репорты, отчет).<p>
 
-> <a href="https://suslikov.atlassian.net/l/cp/5NSNpZdT">Ссылка на проект</a>
+> <a href="https://daffy-house-a83.notion.site/1-2-9dc8ec0d19904885ab4cfc8b743f32e9?pvs=4">Ссылка на проект в Notion </a>
+> <a href="https://suslikov.atlassian.net/l/cp/5NSNpZdT">Ссылка на проект в Confluence</a>
 > <p> логин: suslikov.max@gmail.com </p>
 > <p> пароль: qa302205 </p>
  
